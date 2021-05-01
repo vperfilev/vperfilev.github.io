@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/zen-report/static/css/main.2760ab2a.chunk.css",
-    "main.js": "/zen-report/static/js/main.becaf020.chunk.js",
-    "main.js.map": "/zen-report/static/js/main.becaf020.chunk.js.map",
+    "main.css": "/zen-report/static/css/main.5918e17d.chunk.css",
+    "main.js": "/zen-report/static/js/main.63431cc6.chunk.js",
+    "main.js.map": "/zen-report/static/js/main.63431cc6.chunk.js.map",
     "runtime-main.js": "/zen-report/static/js/runtime-main.22db4e5f.js",
     "runtime-main.js.map": "/zen-report/static/js/runtime-main.22db4e5f.js.map",
-    "static/js/2.8aa84799.chunk.js": "/zen-report/static/js/2.8aa84799.chunk.js",
-    "static/js/2.8aa84799.chunk.js.map": "/zen-report/static/js/2.8aa84799.chunk.js.map",
+    "static/js/2.3918cd85.chunk.js": "/zen-report/static/js/2.3918cd85.chunk.js",
+    "static/js/2.3918cd85.chunk.js.map": "/zen-report/static/js/2.3918cd85.chunk.js.map",
     "index.html": "/zen-report/index.html",
-    "static/css/main.2760ab2a.chunk.css.map": "/zen-report/static/css/main.2760ab2a.chunk.css.map",
-    "static/js/2.8aa84799.chunk.js.LICENSE.txt": "/zen-report/static/js/2.8aa84799.chunk.js.LICENSE.txt"
+    "static/css/main.5918e17d.chunk.css.map": "/zen-report/static/css/main.5918e17d.chunk.css.map",
+    "static/js/2.3918cd85.chunk.js.LICENSE.txt": "/zen-report/static/js/2.3918cd85.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.22db4e5f.js",
-    "static/js/2.8aa84799.chunk.js",
-    "static/css/main.2760ab2a.chunk.css",
-    "static/js/main.becaf020.chunk.js"
+    "static/js/2.3918cd85.chunk.js",
+    "static/css/main.5918e17d.chunk.css",
+    "static/js/main.63431cc6.chunk.js"
   ]
 }
